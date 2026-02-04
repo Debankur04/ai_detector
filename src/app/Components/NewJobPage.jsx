@@ -90,7 +90,7 @@ const NewJobPage = ({ onNavigate }) => {
   };
 
   return (
-    <div className="min-h-screen bg-gray-50">
+    <div className="min-h-screen bg-gray-50 text-black">
       {toast && (
         <Toast
           message={toast.message}

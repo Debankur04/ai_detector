@@ -5,7 +5,7 @@ import { Upload, FileText, Briefcase } from 'lucide-react';
 
 const LandingPage = ({ onNavigate }) => {
   return (
-    <div className="min-h-screen bg-linear-to-br from-blue-50 via-white to-purple-50 flex items-center justify-center p-4">
+    <div className="min-h-screen bg-linear-to-br from-blue-50 via-white to-purple-50 flex items-center justify-center p-4 text-black">
       <div className="max-w-4xl w-full text-center space-y-8 animate-fade-in">
         <div className="space-y-4">
           <h1 className="text-5xl md:text-6xl font-bold text-gray-900 tracking-tight">
